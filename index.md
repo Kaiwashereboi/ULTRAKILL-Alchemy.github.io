@@ -62,6 +62,12 @@ Alternatively, you can look at it from an elemental perspective.
 Piles of metal are stored, there is a water system being piped, in the final arena huge vents move a colorless gas and throughout the level you light fires.  
 !!ADD PICTURES!!  
 
+![](images/image22.png) 
+![](images/image23.png) 
+![](images/image24.png) 
+![](images/image25.png) 
+![](images/image21.png) 
+
 ## The Code
 
 (Note - according to Heckteck there are 1-2 typos that should be fixed in an update)  
