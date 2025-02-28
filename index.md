@@ -26,7 +26,7 @@ _Don’t worry about this too much. It’s a C++ adjacent code structure._
 Likely to be unrelated to the lore but still nice to have.  
 ![](images/image19.png)  
 
-## Skeletons and Symbols
+## Skeletons and Alchemy Symbols
 
 ![](images/image4.jpg)  
 ![](images/image6.png)  
@@ -47,7 +47,7 @@ Putting a torch on the salt altar fills it with salt if it does something (P-1 e
 The image appears to be a statue of a lion with its head missing, possibly stolen by the Hideous Mass. Next to it lies the Sun.  
 This could be a reference to the alchemical imagery of aqua regia, a green lion attacking the sun. Where the lion is the aqua regia attacking/consuming the sun which is gold ([https://en.wikipedia.org/wiki/Suns\_in\_alchemy](https://en.wikipedia.org/wiki/Suns_in_alchemy))  
 
-## 4-3
+## 4-3: Information about the level and its relation with the symbols on the skulls.
 
 4-3 seems to be an alchemical facility. It contains piles of magnesium spread around the level.  
 Outside the Tomb of Kings are piles of gold.  
